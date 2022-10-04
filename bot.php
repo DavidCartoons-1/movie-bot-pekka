@@ -5,7 +5,7 @@ include 'GetPoster.php';
 
 
 
-define('BOT_TOKEN', '[YOUR_TELEGRAM_BOT_TOKEN_HERE]');
+define('BOT_TOKEN', '[5675189721:AAG3y8lI1R3HonH4vZWqD3rV5h9yvF7s34o]');
 define('API_URL', 'https://api.telegram.org/bot'.BOT_TOKEN.'/');
 
 // read incoming info and grab the chatID
